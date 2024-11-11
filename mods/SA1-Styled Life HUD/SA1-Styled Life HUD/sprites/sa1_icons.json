@@ -1,0 +1,19 @@
+{
+	// Character icon for lives
+	"hud_lives_icon_sonic":    { "File": "sa1_icons.png", "Rect": "0,0,19,18" },
+	"hud_lives_icon_tails":    { "File": "sa1_icons.png", "Rect": "20,0,19,18" },
+	"hud_lives_icon_knuckles": { "File": "sa1_icons.png", "Rect": "40,0,19,18" },
+	"hud_lives_icon_miles":    { "File": "sa1_icons.png", "Rect": "20,0,19,18" },
+
+	// Small digits for lives
+	"hud_smalldigit_0": { "File": "s3ak_numbers.png", "Rect":  "0,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_1": { "File": "s3ak_numbers.png", "Rect":  "8,0,8,12", "Center": "13,1" },
+	"hud_smalldigit_2": { "File": "s3ak_numbers.png", "Rect": "16,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_3": { "File": "s3ak_numbers.png", "Rect": "24,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_4": { "File": "s3ak_numbers.png", "Rect": "32,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_5": { "File": "s3ak_numbers.png", "Rect": "40,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_6": { "File": "s3ak_numbers.png", "Rect": "48,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_7": { "File": "s3ak_numbers.png", "Rect": "56,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_8": { "File": "s3ak_numbers.png", "Rect": "64,0,8,12", "Center": "12,1" },
+	"hud_smalldigit_9": { "File": "s3ak_numbers.png", "Rect": "72,0,8,12", "Center": "12,1" },
+}
